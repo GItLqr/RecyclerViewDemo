@@ -14,4 +14,4 @@
 
 5. RecyclerView下拉刷新
 
-![image](RecyclerViewDemo/screenshots/首页.png)
+![image](screenshots/首页.png)
