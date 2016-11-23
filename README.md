@@ -13,3 +13,5 @@
 4. 分类型RecyclerView(ViewType在RecyclerView中的使用)
 
 5. RecyclerView下拉刷新
+
+![image](RecyclerViewDemo/screenshots/首页.png)
